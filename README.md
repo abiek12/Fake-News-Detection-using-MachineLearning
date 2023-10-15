@@ -14,9 +14,7 @@ This repository contains a comprehensive project for detecting fake news using m
 
 The repository is organized into the following directories and files:
 
-- **.ipynb_checkpoints**: Contains Jupyter Notebook checkpoints.
 - **Images**: Contains important project images, such as block diagrams, classification reports, confusion matrices, and screenshots.
-- **__pycache__**: Python bytecode cache files.
 - **dataset**: Includes the dataset, consisting of train and test data from Kaggle, which is used to train and test the model.
 - **static**: Houses static assets for the web application, including CSS, JavaScript, etc.
 - **templates**: Includes HTML templates for the web application, such as `Landingpage.html` and `prediction page.html`.
