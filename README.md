@@ -8,7 +8,7 @@
 
 ## Introduction
 
-This repository contains a comprehensive project for detecting fake news using machine learning techniques and we have used various natural language processing techniques. The project includes data analysis, model training, and a web application for real-time fake news detection. The machine learning model is designed to classify news articles as either real or fake based on their content.
+This repository contains a comprehensive project for detecting fake news using machine learning techniques and various natural language processing techniques. The project includes data analysis, model training, and a web application for real-time fake news detection. The machine learning model is designed to classify news articles as either real or fake based on their content.
 
 ## Project Structure
 
