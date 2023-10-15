@@ -1,13 +1,10 @@
-````markdown
+
 # Fake News Detection using Machine Learning
 
 ## Table of Contents
-
 - [Introduction](#introduction)
 - [Project Structure](#project-structure)
 - [Getting Started](#getting-started)
-- [Usage](#usage)
-- [Web Application](#web-application)
 
 ## Introduction
 
@@ -19,7 +16,7 @@ The repository is organized into the following directories and files:
 
 - **.ipynb_checkpoints**: Contains Jupyter Notebook checkpoints.
 - **Images**: Contains important project images, such as block diagrams, classification reports, confusion matrices, and screenshots.
-- ****pycache****: Python bytecode cache files.
+- **__pycache__**: Python bytecode cache files.
 - **dataset**: Includes the dataset, consisting of train and test data from Kaggle, which is used to train and test the model.
 - **static**: Houses static assets for the web application, including CSS, JavaScript, etc.
 - **templates**: Includes HTML templates for the web application, such as `Landingpage.html` and `prediction page.html`.
@@ -37,7 +34,6 @@ To get started with this project, follow these steps:
    ```bash
    git clone https://github.com/abiek12/Fake-News-Detection-using-MachineLearning.git
    ```
-````
 
 2. Create a virtual environment (optional but recommended):
 
@@ -65,7 +61,7 @@ To get started with this project, follow these steps:
    ```bash
    python app.py
    ```
-
-   Access the application in your web browser by navigating to `http://localhost:5000`.
+Access the application in your web browser by navigating to `http://localhost:5000`.
 
 ---
+
