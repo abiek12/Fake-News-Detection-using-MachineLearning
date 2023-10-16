@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Fake News Detection using Machine Learning
 
 ## Table of Contents
@@ -113,3 +114,6 @@ Access the application in your web browser by navigating to `http://localhost:50
 If you have any questions or need further assistance, feel free to contact us at abhishekkanichery@gmail.com
 
 ---
+=======
+
+>>>>>>> dec99af01937de7dee0aeffa6dbf43ffdfa76701
